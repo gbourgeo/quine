@@ -13,7 +13,7 @@ respectively rendered in a folder named C, ASM and C++.
 + When running, the program must display an output on the standard output
   identical to the source code of the file used to compile this same program.
 
-### The second program
+### The second program
 + Is named __Grace__.
 + When executed, the program writes to a file named Grace_kid.c / Grace_kid.s / Grace_kid.cpp
   the source code of the file used to compile this same program.
